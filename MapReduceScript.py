@@ -42,3 +42,4 @@ class LogAna(MRJob):
         ]
 if __name__ == "__main__":
     LogAna.run()
+
